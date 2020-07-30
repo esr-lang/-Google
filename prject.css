@@ -1,0 +1,91 @@
+body{
+    background-color: #ffffff;
+    font-size: 13px;
+}
+.google-logo{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12%;
+}
+
+#fakebox {
+    cursor: text;
+    max-width: 584px;
+    border-radius: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    border-style:solid;
+    border-width: 1px;
+    height: 45px;
+}
+.search-icon{
+    width: 40px;
+    text-align: center;
+    padding-top: 2%;
+}
+
+#fakebox-text {
+    color: rgb(117, 117, 117);
+    font-size: 16px;
+    height: 44px;
+    left: 0;
+    margin-left: -7%;
+    line-height: 44px;
+}
+input.form-control {
+    border: none;
+    margin-top: 0.5%;
+    
+}
+
+.butt {
+    text-align: center;
+    margin-top: 2%;
+}
+center {
+    display: block;
+    text-align: center;
+}
+.textt{
+    text-align: center;
+}
+
+.fotn {
+    border-bottom: 1px solid #e4e4e4;
+    height: 37px;
+}
+.pas {
+    margin-left: 0px;
+    text-align: left;
+    color: rgba(0,0,0,.54);
+    padding-left: 18px;
+    padding-top: 3px;
+}
+.spa {
+    font-size: 20px;
+}
+#fstr{
+    margin-left: 16px;
+    white-space: nowrap;
+}
+#fstl{
+    float: right;
+    white-space: nowrap;
+    margin-right: 20px;
+}
+.Fx4vi{
+    padding-left: 27px;
+    margin: 0 !important;
+}
+
+footer{
+background-color: #ecf0f1;
+    margin: auto;
+   margin-top: 0.5%;
+   font-size:medium;
+}
+
+
+
